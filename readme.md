@@ -1,5 +1,5 @@
-#KELAS WEB
+# KELAS WEB PHP
 
-Repository ini merupakan berisi source code dan dokumentasi dari kelas web yang dilaksanakan di QODR Pusat.
+Repository ini merupakan source code dan dokumentasi dari kelas web menggunakan `PHP` yang dilaksanakan di QODR Pusat.
 
-> Kelas ini diampu oleh [@kodeartisan](https://github.com/kodeartisan)
+> Mentor [@kodeartisan](https://github.com/kodeartisan)
