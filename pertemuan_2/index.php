@@ -11,6 +11,6 @@ echo $kucing->meong() . '<br>';
 echo $kucing->getRas() . '<br>';
 echo $kucing->getWarna() . '<br>';
 echo $kucing->getHarga() . '<br>';
-echo $kucing->setHarga() . '<br>';
+$kucing->setHarga();
 echo $kucing->getHarga() . '<br>';
 echo $kucing->getUmur() . '<br>';
