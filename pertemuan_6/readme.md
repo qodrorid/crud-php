@@ -1,5 +1,5 @@
 # CATATAN PERTEMUAN 6
-Berlangsung pada 27 Maret 2017, 14.40 - 17.00 WIB @ [QODR HQ](https://goo.gl/maps/xMVQtcLw5ry)
+Berlangsung pada 27 Maret 2017, 15.40 - 17.00 WIB @ [QODR HQ](https://goo.gl/maps/xMVQtcLw5ry)
 
 ## Interface
 > Menyeragamkan method dan sebagai penyedia method
