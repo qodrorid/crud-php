@@ -9,6 +9,12 @@
         }
     ],
     "require": {
-        "nesbot/carbon": "~1.21"
-    }
+        "nesbot/carbon": "~1.21",
+        "fzaninotto/faker": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Portal\\": "src/"        
+        }
+    }    
 }
