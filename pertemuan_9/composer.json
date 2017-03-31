@@ -1,0 +1,20 @@
+{
+    "name": "logicz/composer",
+    "description": "Belajar Composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Nur",
+            "email": "andylulz@yahoo.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "~1.21",
+        "fzaninotto/faker": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Portal\\": "src/"        
+        }
+    }    
+}
